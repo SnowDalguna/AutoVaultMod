@@ -12,7 +12,7 @@
   "entrypoints": {
     "main": [
       "com.example.ExampleMod"
-    ]
+    ],
   },
   "depends": {
     "fabricloader": ">=0.15.0",
