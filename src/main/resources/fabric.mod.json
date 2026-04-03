@@ -11,7 +11,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.examplemod.ExampleMod"
+      "com.example.ExampleMod"
     ]
   },
   "depends": {
