@@ -1,5 +1,4 @@
-package net.fabricmc.examplemod;
-
+package com.example;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
 import net.minecraft.block.Blocks;
